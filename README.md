@@ -1,16 +1,27 @@
-# flutter_application
+# Plataforma de cursos
 
-A new Flutter project.
+Aplicativo desenvolvido para a disciplina de Desenvolvimento para Dispositivos Móveis.
 
-## Getting Started
+O projeto consiste em um aplicativo de cursos utilizando os conceitos ensinados na disciplina.
 
-This project is a starting point for a Flutter application.
+Acesse o repositório da api [aqui](https://github.com/heldersonbarros/drf-course-platform).
 
-A few resources to get you started if this is your first Flutter project:
+## Funcionalidades
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- Registrar/Login
+- Criação de cursos
+- Usuários do tipo estudante podem se juntar ao cursos
+- Assistir aulas
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+
+![Login](screenshots/login.png)
+![Homepage](screenshots/homepage.png) \
+
+![Course detail](screenshots/course_detail.png)
+![Watch video](screenshots/watch_video.png)
+
+## Tecnologias utilizadas
+
+- Flutter
+- Django Rest Framework
